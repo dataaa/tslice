@@ -1,5 +1,5 @@
 # tslice
-Create time-slice photos
+Create time-slice photos with Python
 
 Prerequisites:
 - Python Imaging Library ('PIL')
